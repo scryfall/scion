@@ -1,0 +1,27 @@
+{
+  "name": "alfred-servo",
+  "version": "1.0.0",
+  "description": "Workflow to search MTG cards on Scryfall.",
+  "license": "MIT",
+  "repository": "scryfall/servo",
+  "author": {
+    "name": "Scryfall",
+    "url": "scryfall.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfy-init"
+  },
+  "keywords": [
+    "alfred",
+    "workflow",
+    "mtg",
+    "scryfall",
+    "magic"
+  ],
+  "dependencies": {
+    "alfy": "^0.5.0"
+  }
+}
