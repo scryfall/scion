@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.scryfall.servo</string>
+	<string>com.scryfall.scion</string>
 	<key>category</key>
 	<string>Internet</string>
 	<key>connections</key>
