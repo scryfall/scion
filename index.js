@@ -59,7 +59,10 @@ const formatAbbreviatedCard = card => {
   return output;
 }
 
-if (/\S[:=<>]+\S/g.test(Q)) {
+if (
+  /\S[:=<>]+\S/g.test(Q) ||
+  /[\(\)|!]+/g.test(Q)
+) {
   alfy.fetch(API_URL, { maxAge: ONE_HOUR })
     .then(results => {
       if (results.object === "error") {
