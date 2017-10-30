@@ -1,6 +1,6 @@
 # scion
 
-An Alfred worklow to quickly search for Magic cards on [Scryfall](https://www.scryfall.com).
+An Alfred workflow to quickly search for Magic cards on [Scryfall](https://www.scryfall.com).
 
 [![Download 1.0.0](https://img.shields.io/badge/download-v1.1.1-green.svg)](https://raw.githubusercontent.com/scryfall/scion/master/build/scryfall.alfredworkflow)
 
