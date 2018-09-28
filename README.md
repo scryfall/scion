@@ -6,7 +6,7 @@ An Alfred worklow to quickly search for Magic cards on [Scryfall](https://www.sc
 
 ## Features
 
-After installing the workflow, type `mtg ` (with the space), followed by your search:
+After [installing the workflow](https://www.alfredapp.com/blog/tips-and-tricks/tutorial-importing-and-setting-up-alfred-workflows/) (requires purchasing [Powerpack](https://www.alfredapp.com/powerpack/)), type `mtg ` (with the space), followed by your search:
 
 ![Example search for "bolt"](docs/screenshot-wo.png)
 
