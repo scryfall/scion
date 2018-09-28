@@ -136,7 +136,7 @@
       </dict>
     </array>
     <key>readme</key>
-    <string/>
+    <string>Workflow to search MTG cards on Scryfall.</string>
     <key>uidata</key>
     <dict>
       <key>121520B1-E7AF-4C37-B5D0-A94E9A9A0676</key>
